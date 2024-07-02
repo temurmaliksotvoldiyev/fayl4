@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: blue;
+    
+}
+form{
+    width: 70%;
+    padding:20px 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    
+}
+
+div{
+    color: white;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+  
+   
+
+
+}
+input{
+    height: 30px;
+    border-radius: 5px;
+    padding: 10px;
+    
+    background: blue;
+    
+    
+    
+
+}
+
+    
+    
+    
+
+
+.input1{
+   
+    border: 3px groove orange ;
+}
+.input2{
+    border:8px groove blue ;
+     
+
+}
+
+.input3{
+    border: 8px groove blue;
+    
+}
+.input4{
+    border:8px groove blue;
+}
+     
+
+
+
+button{
+    width: 75px;
+    background: orange;
+    color: white;
+    border: none;
+    padding:8px 18px;
+
+
+}
+
+
+
